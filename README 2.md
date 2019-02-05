@@ -1,9 +1,6 @@
-# beepbeep
+# Beep helpers
 
-Generate short beeps to dummy test experiments that would use lengthy wav 
-fragments.
-
-Python 3 code to generate a lot of short wav files with beeps according to some 
+A script to generate a lot of short wav files with beeps according to some 
 naming convention, so one can easily create a 'dummy experiment' for testing/
 debugging.
 
@@ -81,7 +78,7 @@ run the entire experiment of more than one hour at least 10 times to test under
 what condition some bug might appear and spend an entire day listening to your
 lengthy sentences.
 
-## Solution: short beeps
+## Solution: beeps
    
 For this reason, beep.py has been created. If you know how to make a custom 
 dictionary, you can easily adapt this to your type/token condition needs and
@@ -91,11 +88,11 @@ of long, complex sentences with one command in a python shell.
 # How to use
 
 This is not aimed at single purpose production use, you will have to create your
-own dictionary. Or your local techie might be able to help you out.
+own dictionary. Or you techie might be able to help you out.
 
 If you would like the amount of files and types exactly like Wil de Bras, you
 can clone or download this repository, make sure you have the right permission,
-fire up Konsole, Terminal, or some windows python app and for instance, type:
+fire up Konsole, Terminal, or windows python and for instance, type:
 
 ipython3
 Python 3.7.2 (default, Jan 13 2019, 12:50:15)
