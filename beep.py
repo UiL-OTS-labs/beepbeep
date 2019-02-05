@@ -125,7 +125,7 @@ def save_wav(fname, audio, sample_rate):
     wav_file.close()
     return
 
-# This is a dict with Rachida's naming/amount specs. 
+# This is a dict with naming/amount specs. 
 # I chose some values for tones. It results in a nice kind of scale ;-) 
 
 big = dict({'a':  {'pre':'a', 'dur':250, 'tone':222, 'amount':60},
