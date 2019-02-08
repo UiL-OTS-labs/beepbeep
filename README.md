@@ -56,13 +56,13 @@ Type A yields:
 
 Type B yields:
 
-	a01.wav
-	a02.wav
-	a03.wav
+	b01.wav
+	b02.wav
+	b03.wav
 	...
-	a58.wav
-	a59.wav
-	a60.wav
+	b58.wav
+	b59.wav
+	b60.wav
 
 And so on...
 
